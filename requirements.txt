@@ -117,7 +117,7 @@ querystring-parser
 regex
 requests
 rich
-scikit-learn
+scikit-learn==1.5.0
 scikit-plot
 scipy
 seaborn
