@@ -127,7 +127,7 @@ six
 slicer
 smart-open
 smmap
-spacy
+spacy==3.7.5
 sparse
 SQLAlchemy
 sqlparse
